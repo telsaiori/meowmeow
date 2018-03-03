@@ -1,0 +1,47 @@
+.face{
+  position: relative;
+}
+
+.left-eye{
+  position: absolute;
+  top: 210px;
+  left: 60px;
+}
+
+.right-eye{
+  position: absolute;
+  top: 210px;
+  left: 480px;
+}
+
+.nose{
+  position: absolute;
+  top: 420px;
+  left: 300px;
+}
+
+.left-hige{
+  position: absolute;
+  top: 420px;
+  left: 180px;
+}
+
+.right-hige{
+  position: absolute;
+  top: 420px;
+  left: 450px;
+}
+
+.left-nazo{
+  position: absolute;
+  top: 150px;
+  left: 180px;
+}
+
+.right-nazo{
+  position: absolute;
+  top: 150px;
+  left: 450px;
+}
+
+
